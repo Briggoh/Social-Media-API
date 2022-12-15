@@ -18,14 +18,40 @@ The primary functions of this application include:
 ### Demonstration Video
 
 Attached here is a link to a video demonstration of the application: 
-
+https://www.loom.com/share/20da621ff05543e28d9be640b349695f
 
 
 ## Technologies
 This project was created with: 
-
+## Technologies
+This project was primarily created with: 
+* JavaScript
+* NoSQL: MongoDB
+* Node JS
+* Express
+* Mongoose
 
 ## Installation
+First, clone this respository using the following command in your terminal:
+<br>
+```terminal
+git clone git@github.com:Briggoh/Social-Network-API.git
+```
+Verify that MongoDB and MongoDB Compass are downloaded to your computer. This is necessary. 
+
+Install the required dependencies by inputting the following command in your terminal:
+```terminal
+npm i
+```
+Begin running MongoDb by inputting the following command in your terminal: 
+```terminal
+mongod
+```
+Finally, you may begin running the application by inputting the following command in your terminal: 
+```terminal
+npm start
+```
+
 
 Utilization of Insomnia is required if the user wishes to view, update, create, or delete different routes. 
 
