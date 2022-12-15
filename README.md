@@ -15,6 +15,10 @@ The primary functions of this application include:
 - Adding and deleting friends
 - Adding, viewing, updating, and deleting posts (titled "thoughts" in this application)
 - Adding and deleting reactions
+
+Attached below is a gif depicting the application running via Insomnia: 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/109489824/207749880-1bd3e1f3-e2fd-4026-bd1b-e4ef6badd2ce.gif)
+
 ### Demonstration Video
 
 Attached here is a link to a video demonstration of the application: 
