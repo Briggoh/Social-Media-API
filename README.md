@@ -8,7 +8,13 @@
 * [Questions](#questions)
 
 ## About
+The following application is utilized for the construction of a social networking/media API. This product is particularly noteworthy because it yields the potential to handle significant amounts of data through the NoSQL database. 
 
+The primary functions of this application include: 
+- Adding, viewing, updating, and deleting users.
+- Adding and deleting friends
+- Adding, viewing, updating, and deleting posts (titled "thoughts" in this application)
+- Adding and deleting reactions
 ### Demonstration Video
 
 Attached here is a link to a video demonstration of the application: 
