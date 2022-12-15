@@ -20,9 +20,6 @@ The primary functions of this application include:
 Attached here is a link to a video demonstration of the application: 
 https://www.loom.com/share/20da621ff05543e28d9be640b349695f
 
-
-## Technologies
-This project was created with: 
 ## Technologies
 This project was primarily created with: 
 * JavaScript
