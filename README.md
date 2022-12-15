@@ -53,7 +53,7 @@ npm start
 ```
 
 
-Utilization of Insomnia is required if the user wishes to view, update, create, or delete different routes. 
+* Utilization of Insomnia is required if the user wishes to view, update, create, or delete different routes. 
 
 ## Contributions
 Although a 3rd party's interest in helping me is always appreciated, I will not be accepting any contributions for this project.
